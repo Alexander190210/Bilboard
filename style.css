@@ -1,0 +1,124 @@
+body{
+	font-family: arial;
+}
+a{
+	text-decoration: none;
+	margin-left: 30px;
+	font-size: 20px;
+	font-family: arial;
+}
+.header{
+	background:#b2b2b2;
+	border: 1px solid black;
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+.charts-container{
+	height: 900px;
+	width: 900px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.header-center{
+	width: 900px;
+	margin-left: auto;
+	margin-right: auto;
+	display: flex;
+}
+.charts-sort{
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+.charts-up{
+	background: lightgreen;
+	margin-top: 20px;
+	display: flex
+}
+.charts-new{
+	background: lightpink;
+	margin-top: 20px;
+	display: flex
+}
+.charts-down{
+	background: lightpink;
+	margin-top: 20px;
+	display: flex
+}
+
+.box-logo{
+	width: 150px;
+
+}
+.box-links{
+	width: 650px;
+}
+.box-buttons{
+	width: 100px;	
+
+}
+.charts-rank{
+	width: 100px;
+	text-align: center;
+}
+.charts-info{
+	width: 500px;
+}
+.charts-button{
+	width: 200px;
+	text-align: center;
+}
+.charts-img{
+	width: 100px;
+}
+img{
+	max-width: 100%;
+
+}
+.music-name{
+	color: #000250;
+	font-size: 28px;
+}
+.music-art{
+	color: white;
+	font-size: 20px ;
+	font-weight:  900;
+}
+.button-green{
+	background: green;
+	padding: 10px 20px;
+	border: none;
+	color: white;
+	border-radius: 5px;
+}
+
+
+.button-blue{
+	background: blue;
+	padding: 10px 20px;
+	border: none;
+	color: white;
+	border-radius: 5px;
+}
+.button-violet{	
+	background: violet;
+	padding: 10px 20px;
+	border: none;
+	color: white;
+	border-radius: 5px;
+}
+.button-red{
+ 	background: red;
+	padding: 10px 20px;
+	border: none;
+	color: white;
+	border-radius: 5px;
+
+}
+.button-orange{
+	background: orange;
+	padding: 10px 20px;
+	border: none;
+	color: white;
+	border-radius: 5px;
+}
